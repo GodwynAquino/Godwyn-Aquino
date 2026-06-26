@@ -6,7 +6,7 @@
 
 <br>
 <div align="left">
-I Software and eager to learn, committed to building efficient and modern web applications using the WAMP and TALL Stack. My journey in technology began while studying BS Information Technology.
+I am Software Devloper, committed to building efficient and modern web applications using the WAMP and TALL Stack. My journey in technology began while studying BS Information Technology.
 </div>
 
 <br>
