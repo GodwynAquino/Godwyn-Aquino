@@ -19,9 +19,9 @@ I am Software Developer, committed to building efficient and modern web applicat
 ## Experience
 
 - **Jr. Full Stack Developer**
-**Nephila Web Technology Inc.**
-*May 2026 - Present*
-Quezon City, National Capital Region, Philippines
+  **Nephila Web Technology Inc.**
+  *May 2026 - Present*
+  Quezon City, National Capital Region, Philippines
 
 - **Software Developer Apprentice**  
   **Nephila Web Technology Inc.**  
