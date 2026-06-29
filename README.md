@@ -25,7 +25,7 @@ I am Software Developer, committed to building efficient and modern web applicat
  
 - **Software Developer Apprentice**  
   **Nephila Web Technology Inc.**  
-  *March 2026 – Present*  
+  *March 2026 – May 2026*  
   Quezon City, National Capital Region, Philippines  
  
 
